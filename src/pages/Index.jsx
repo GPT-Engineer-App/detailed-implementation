@@ -1,5 +1,5 @@
 import { Container, Table, Thead, Tbody, Tr, Th, Td, Checkbox, IconButton, Badge, HStack, Button, VStack } from "@chakra-ui/react";
-import { FaTrash, FaEye, FaExclamationCircle } from "react-icons/fa";
+import { FaTrash, FaEye, FaExclamationCircle, FaFilter, FaSort } from "react-icons/fa";
 import { useState } from "react";
 
 const Index = () => {
